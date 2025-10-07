@@ -1,18 +1,9 @@
-👋 Olá, sou @PaulaSena - Desenvolvedora Full Stack formada com Técnico em Java pela FIEB e Estudante de Análise e Desenvolvimento de Sistemas na Unip, sou de São Paulo Cotia e gosto de Viajar e estar em Familia sempre que possível.
+### 👋Olá, sou @PaulaSena - Desenvolvedora Full Stack formada em Análise e Desenvolvimento de Sistemas
+### e Técnico em TI, sou de São Paulo Cotia e gosto de Viajar e estar em Familia sempre que possível.
 
-👀 Atualmente estou interessada em oportunidades que me permitam desenvolver no Front-end e Back-End para contribuir e crescer cada vez mais.
-
-🌱 Sigo aprendendo constantemente e me mantendo atualizada com desenvolvimento web.
-
-💞️ Procuro colaborar em projetos que valorizem a diversidade e a criatividade, onde eu possa contribuir com meu conhecimento e sempre aprender coisas novas.
-
-
-📫 Como entrar em contato comigo!
-
-Você pode me encontrar no:
+### 📫 Como entrar em contato comigo!  --  Você pode me encontrar no:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=c456ce)](https://www.linkedin.com/in/paulassena/)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-c456ce?style=for-the-badge)](https://web.dio.me/users/senasilvaanapaula/?tab=achievements)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=c456ce)](mailto:annapaulassenna@gmail.com)
 
 
@@ -30,6 +21,8 @@ Você pode me encontrar no:
 ![C#](https://img.shields.io/badge/Csharp-000?style=for-the-badge&logo=csharp&logoColor=c456ce)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=c456ce)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=c456ce)
+![Next](https://img.shields.io/badge/Next-000?style=for-the-badge&logo=java&logoColor=c456ce)
+
 
 
 ### GitHub Stats
